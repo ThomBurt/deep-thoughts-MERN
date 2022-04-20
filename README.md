@@ -4,7 +4,7 @@
   username - deepThought
   pw - deepThought1
   
-  mongodb+srv://deepThought:deepThought1@cluster0.mmjra.mongodb.net/Cluster0?retryWrites=true&w=majority
+  mongodb+srv://deepThought:deepThought1@cluster0.mmjra.mongodb.net/deepThoughts?retryWrites=true&w=majority
   
   addUser(username:"thom", password:"testThom", email:"thom@test.com") {
 
