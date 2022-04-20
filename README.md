@@ -1,3 +1,11 @@
+  https://protected-harbor-83562.herokuapp.com/ | https://git.heroku.com/protected-harbor-83562.git
+
+  cluster info mongoatlas
+  username - deepThought
+  pw - deepThought1
+  
+  mongodb+srv://deepThought:deepThought1@cluster0.mmjra.mongodb.net/Cluster0?retryWrites=true&w=majority
+  
   addUser(username:"thom", password:"testThom", email:"thom@test.com") {
 
       "_id": "625db9953b2bf95cf4a909ef",
